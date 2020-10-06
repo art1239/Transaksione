@@ -1,0 +1,101 @@
+{
+    "meals": [
+        {
+            "idMeal": "53028",
+            "Meal": "Shawarma",
+            "Area": "Egyptian",
+            "Instructions": "Combine the marinade ingredients in a large ziplock bag (or bowl).\r\nAdd the chicken and use your hands to make sure each piece is coated. If using a ziplock bag, I find it convenient to close the bag then massage the bag to disperse the rub all over each chicken piece.\r\nMarinate overnight or up to 24 hours.\r\nCombine the Yoghurt Sauce ingredients in a bowl and mix. Cover and put in the fridge until required (it will last for 3 days in the fridge).\r\nHeat grill/BBQ (or large heavy based pan on stove) on medium high. You should not need to oil it because the marinade has oil in it and also thigh fillets have fat. But if you are worried then oil your hotplate/grill. (See notes for baking)\r\nPlace chicken on the grill and cook the first side for 4 to 5 minutes until nicely charred, then turn and cook the other side for 3 to 4 minutes (the 2nd side takes less time).\r\nRemove chicken from the grill and cover loosely with foil. Set aside to rest for 5 minutes.\r\nTO SERVE\r\nSlice chicken and pile onto platter alongside flatbreads, Salad and the Yoghurt Sauce.\r\nTo make a wrap, get a piece of flatbread and smear with Yoghurt Sauce. Top with a bit of lettuce and tomato and Chicken Shawarma. Roll up and enjoy!",
+            "MealThumb": "https://www.themealdb.com/images/media/meals/kcv6hj1598733479.jpg",
+            "Ingredients": ["Chicken Thighs",
+                            "Coriander","Cumin","Cardamom",
+                            "Cayenne Pepper","Paprika",
+                            "Lemon Juice","Olive Oil","Greek Yogurt", 
+                            "Garlic Clove", "Cumin", "Lemon Juice",
+                            "Lettuce","Tomato", "Pita Bread"],
+             "Category":"Fast Food",
+             "TimeOfDay":"Dinner",
+            "Youtube": "https://www.youtube.com/watch?v=3lxUIeKDgic",
+            "Source": "https://www.recipetineats.com/chicken-sharwama-middle-eastern/"
+          
+        },
+        {
+            "idMeal": "52974",
+            "Meal": "Keleya Zaara",
+            "Area": "Tunisian",
+            "TimeOfDay":"Lunch",
+            "Instructions": "Heat the vegetable oil in a large frying pan over medium-high heat. Add the lamb and cook until browned on all sides, about 5 minutes. Season with saffron, salt and pepper to taste; stir in all but 4 tablespoons of the onion, and pour in the water. Bring to the boil, then cover, reduce heat to medium-low, and simmer until the lamb is tender, about 15 minutes.\r\nUncover the pan, stir in the butter and allow the sauce reduce 5 to 10 minutes to desired consistency. Season to taste with salt and pepper, then pour into a serving dish. Sprinkle with the remaining chopped onions and parsley. Garnish with lemon wedges to serve.\r\n",
+            "MealThumb": "https://www.themealdb.com/images/media/meals/8x09hy1560460923.jpg",
+            "Youtube": "https://www.youtube.com/watch?v=u_OSIChzuL0",
+            "Ingredients": ["Lamb",
+                "Saffron","Onion","Cardamom",
+                "Cayenne Pepper","Paprika",
+                "Olive Oil","Greek Yogurt", 
+                 "Lemon","Butter","Parsley", "Water"],
+            "Source": "http://allrecipes.co.uk/recipe/43723/keleya-zaara-tunisian-lamb-with-saffron.aspx"
+           
+        },
+        {
+            "idMeal": "52918",
+            "Meal": "Fish Stew with Rouille",
+            "Category": "Seafood",
+            "Area": "French",
+            "TimeOfDay":"Lunch",
+            "Instructions": "Twist the heads from the prawns, then peel away the legs and shells, but leave the tails intact. Devein each prawn. Fry the shells in 1 tbsp oil for 5 mins, until dark pink and golden in patches. Add the wine, boil down by two thirds, then pour in the stock. Strain into a jug, discarding the shells.\r\nHeat the rest of the oil in a deep frying pan or casserole. Add the fennel, onion and garlic, season, then cover and gently cook for 10 mins until softened. Meanwhile, peel the potato and cut into 2cm-ish chunks. Put into a pan of cold water, bring to the boil and cook for 5 mins until almost tender. Drain in a colander.\r\nPeel a strip of zest from the orange. Put the zest, star anise, bay and ½ tsp harissa into the pan. Fry gently, uncovered, for 5-10 mins, until the vegetables are soft, sweet and golden.\r\nStir in the tomato purée, cook for 2 mins, then add the tomatoes and stock. Simmer for 10 mins until the sauce thickens slightly. Season to taste. The sauce can be made ahead, then reheated later in the day. Meantime, scrub the mussels or clams and pull away any stringy beards. Any that are open should be tapped sharply on the worktop – if they don’t close after a few seconds, discard them.\r\nReheat the sauce if necessary, then stir the potato, chunks of fish and prawns very gently into the stew. Bring back to the boil, then cover and gently simmer for 3 mins. Scatter the mussels or clams over the stew, then cover and cook for 2 mins more or until the shells have opened wide. Discard any that remain closed. The chunks of fish should flake easily and the prawns should be pink through. Scatter with the thyme leaves.\r\nTo make the quick rouille, stir the rest of the harissa through the mayonnaise. Serve the stew in bowls, topped with spoonfuls of rouille, which will melt into the sauce and enrich it. Have some good bread ready, as you’ll definitely want to mop up the juices.",
+            "MealThumb": "https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg",
+            "Youtube": "https://www.youtube.com/watch?v=fp9Lqx2EUco",
+            "Ingredients": ["Prawns",
+                "Dry White Wine","Fish Stock","Fennel",
+                "Onion","Garlic","Olive Oil","Orange", 
+                 "Star Anise","Harissa Spice","Tomato Puree", "White Fish","Thyme","Bread"],
+            "Source": "https://www.bbcgoodfood.com/recipes/532640/summer-fish-stew-with-rouille"
+           
+        },
+
+        {
+            "idMeal": "52960",
+            "Meal": "Salmon Avocado Salad",
+            "Category": "Seafood",
+            "Area": "British",
+            "TimeOfDay":"Lunch",
+            "Instructions": "Season the salmon, then rub with oil. Mix the dressing ingredients together. Halve, stone, peel and slice the avocados. Halve and quarter the cucumber lengthways, then cut into slices. Divide salad, avocado and cucumber between four plates, then drizzle with half the dressing.\r\n\r\nHeat a non-stick pan. Add the salmon and fry for 3-4 mins on each side until crisp but still moist inside. Put a salmon fillet on top of each salad and drizzle over the remaining dressing. Serve warm.",
+            "MealThumb": "https://www.themealdb.com/images/media/meals/1549542994.jpg",
+            "Youtube": "https://www.youtube.com/watch?v=FJiu2S0Xap0",
+            "Ingredients": ["Salmon",
+                "Avocado","Cucumber","Spinach",
+                "Mint","Lime","Olive Oil","Honey"
+                ],
+            "Source": "https://www.bbcgoodfood.com/recipes/4521/salmon-avocado-and-cucumber-salad"},
+
+            {  "idMeal": "52854",
+                "Meal": "Pancakes",
+                "Category": "Dessert",
+                "Area": "American",
+                "TimeOfDay":"Morning",
+                "Instructions": "Put the flour, eggs, milk, 1 tbsp oil and a pinch of salt into a bowl or large jug, then whisk to a smooth batter. Set aside for 30 mins to rest if you have time, or start cooking straight away.\r\nSet a medium frying pan or crêpe pan over a medium heat and carefully wipe it with some oiled kitchen paper. When hot, cook your pancakes for 1 min on each side until golden, keeping them warm in a low oven as you go.\r\nServe with lemon wedges and sugar, or your favourite filling. Once cold, you can layer the pancakes between baking parchment, then wrap in cling film and freeze for up to 2 months.",
+                "MealThumb": "https://www.themealdb.com/images/media/meals/rwuyqx1511383174.jpg",
+                "Youtube": "https://www.youtube.com/watch?v=LWuuCndtJr0",
+                "Ingredients": ["Flour",
+                    "Eggs","Milk","Sunflower Oil",
+                    "Sugar","Raspberries","Blueberries"
+                    ],
+                "Source": "https://www.bbcgoodfood.com/recipes/2907669/easy-pancakes"},
+
+                  { "idMeal": "52842",
+                    "Meal": "Broccoli & Stilton soup",
+                    "Category": "Starter",
+                    "strArea": "British",
+                    "TimeOfDay":"Dinner",
+                    "Instructions": "Heat the rapeseed oil in a large saucepan and then add the onions. Cook on a medium heat until soft. Add a splash of water if the onions start to catch.\r\n\r\nAdd the celery, leek, potato and a knob of butter. Stir until melted, then cover with a lid. Allow to sweat for 5 minutes. Remove the lid.\r\n\r\nPour in the stock and add any chunky bits of broccoli stalk. Cook for 10 – 15 minutes until all the vegetables are soft.\r\n\r\nAdd the rest of the broccoli and cook for a further 5 minutes. Carefully transfer to a blender and blitz until smooth. Stir in the stilton, allowing a few lumps to remain. Season with black pepper and serve.",
+                    "MealThumb": "https://www.themealdb.com/images/media/meals/tvvxpv1511191952.jpg",
+                    
+                    "Youtube": "https://www.youtube.com/watch?v=_HgVLpmNxTY",
+                    "Ingredients": ["Celery",
+                        "Onion","Milk","Rapeseed Oil",
+                        "Leek","Potatoes","Butter","Vegetable Stock","Broccoli","Stilton Cheese"
+                        ],
+                    "Source": "https://www.bbcgoodfood.com/recipes/1940679/broccoli-and-stilton-soup"
+                   
+                }
+
+    ]
+}
